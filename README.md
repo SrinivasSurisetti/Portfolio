@@ -5,6 +5,7 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[srinivas-portfolio]](https://srinivas-surisetti.netlify.app/)
 
 🖼️ **Screenshots**
+--- 
 <img width="1765" height="919" alt="Screenshot 2025-11-13 225141" src="https://github.com/user-attachments/assets/58bfe531-dfde-4f59-af16-5ccc72101822" />
 <img width="1716" height="918" alt="Screenshot 2025-11-13 225251" src="https://github.com/user-attachments/assets/ad952b38-454c-4e92-a90e-ed84b689d90b" />
 <img width="1525" height="920" alt="Screenshot 2025-11-13 225203" src="https://github.com/user-attachments/assets/5149cf8d-6002-486e-bf79-f9fc725953e9" />
